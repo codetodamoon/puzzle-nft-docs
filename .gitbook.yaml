@@ -1,0 +1,21 @@
+root: .
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+plugins:
+  - search-pro
+  - anchor-links-exclude:
+      folders:
+        - assets
+
+anchors:
+  level: 3
+  exclude: []
+
+markdown:
+  anchors:
+    level: 3
+
+gitbook: ">=3.2.3"
