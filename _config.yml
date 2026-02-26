@@ -1,0 +1,21 @@
+title: TreasureHunt Documentation
+description: Blockchain Puzzle NFT dApp Documentation
+baseurl: "/puzzle-nft-docs"
+url: "https://codetodamoon.github.io"
+
+# Use relative links
+relative_permalinks: true
+
+# Markdown config
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Collections
+collections:
+  - introduction
+  - user-guide
+  - developer-guide
+  - admin-guide
+  - reference
