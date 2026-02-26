@@ -3,9 +3,6 @@ description: Blockchain Puzzle NFT dApp Documentation
 baseurl: "/puzzle-nft-docs"
 url: "https://codetodamoon.github.io"
 
-# Use relative links
-relative_permalinks: true
-
 # Markdown config
 markdown: kramdown
 kramdown:
